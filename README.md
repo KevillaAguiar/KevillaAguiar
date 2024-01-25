@@ -7,5 +7,3 @@
 
 ##
 
-![snake gif](https://github.com/kevillaaguiar/kevillaaguiar/blob/output/github-contribution-grid-snake.svg)
-
