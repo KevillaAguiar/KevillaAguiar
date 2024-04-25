@@ -1,15 +1,12 @@
 ### Olá! Sou Kévilla!:
 
+##
+
 <div>
   <a href="https://github.com/KevillaAguiar">
-   <p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevillaaguiar&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="kevillaaguiar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevillaaguiar&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="kevillaaguiar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevillaaguiar&theme=dark" alt="kevillaaguiar" /></p>
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=kevillaaguiar&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="kevillaaguiar" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevillaaguiar&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="kevillaaguiar" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevillaaguiar&theme=dark" alt="kevillaaguiar"
 </div>
 
 
@@ -19,6 +16,7 @@
   <img align="center" alt="Linne-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="Linne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Linne-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Linne-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
 ##
